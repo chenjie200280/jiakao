@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="titleBackGround">#21292b</color>
+    <color name="white">#ffffffff</color>
+    <color name="black_text">#545f5f5f</color>
+    <color name="trasparent_press">#2cc7c4c4</color>
+    <color name="trasparent_normal">#23c8dc</color>
+    <color name="road_trasparent_normal">#52c2ff</color>
+    <color name="main_red">#ffcc3131</color>
+    <color name="red">#ffff0000</color>
+    <color name="blue">#ff0000ff</color>
+    <color name="gray">#ff808080</color>
+
+</resources>
